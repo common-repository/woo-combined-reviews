@@ -1,0 +1,103 @@
+.wcr-wrap{
+	padding: 20px;
+	font-size: 16px;
+	overflow: hidden;
+}
+.options-form{
+	width: 50%;
+	float: left;
+	margin: 50px 0;
+}
+
+.options-form .block{
+	margin-bottom: 40px;
+	overflow: hidden;
+	background-color: #fff;
+	padding: 20px;
+}
+
+fieldset label{
+	margin-right: 10px;
+}
+.wcr-submit{
+	margin-top: 50px !important;
+	display: block !important;
+	margin-bottom: 70px !important;
+}
+.hidden-h1{
+	display: none;
+}
+
+.pro-notice{
+	width: 40%;
+	float: right;
+	margin: 50px 0;
+}
+
+.wcr-admin-title{
+	width: 50%;
+	float: left;
+}
+
+.wcr-version{
+	text-align: right;
+	width: 50%;
+}
+
+.wcr-wrap h3{
+	margin-top: 0;
+}
+
+.wcr-admin-page-title{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.wcr-styling label{
+	display: block;
+	margin-bottom: 10px;
+}
+
+.wcr-styling label span{
+	display: block;
+	margin-bottom: 10px;
+}
+
+.update-nag, 
+.updated, 
+.error, 
+.is-dismissible{ 
+	display: none; 
+}
+
+.pro-only{
+	opacity: 0.6;
+}
+
+.pro-only-link{
+	color: red;
+	font-weight: 700;
+}
+
+.pro-details-list{
+	list-style-position: inside;
+	margin:0 !important;
+}
+
+.wcr-contact-info{
+	margin-top: 50px;
+}
+
+.review-request{
+	margin-bottom: 50px;
+}
+
+.review-request p, .pro-details-list{
+	font-size: 16px;
+	background-color: #fff;
+	padding: 10px;
+	font-weight: 500;
+	line-height: 30px;
+}
